@@ -1,0 +1,9 @@
+{
+	"owner": ["18312576749@s.whatsapp.net"],
+	"api": {
+		"masgi": "https://masgimenz.my.id"
+	},
+	"autoPost": false,
+	"autoRead": true,
+	"composing": true
+}
